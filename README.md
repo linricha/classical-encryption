@@ -8,6 +8,7 @@ List of Resources:
 Reading on this Mini Project: https://rebelsky.cs.grinnell.edu/Courses/CSC207/2024Fa/mps/mp01.html
 
 Link to Github Repository:
+https://github.com/linricha/classical-encryption
 
 
 
