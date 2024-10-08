@@ -11,19 +11,25 @@ Link to Github Repository:
 https://github.com/linricha/classical-encryption
 
 Redo Notes: (Fixed checkstyle errors, fixed testing errors, and fixed project formatting issues)
+
 - Updated Cipher.java: (fixed checkstyle errors)
-      Added private static final int variables and replaced the numbers/ints used with these variables.
+  
+      - Added private static final int variables and replaced the numbers/ints used with these variables.
 
 - Updated AllCaesar.java: (fixed checkstyle errors)
-      Added private static final int variables and replaced the numbers/ints used with these variables.
+  
+      - Added private static final int variables and replaced the numbers/ints used with these variables.
 
 - Removed extra files from before: (fixed formatting project issue from before)
-      target folder, the .class folders in target, reports for checks, etc.
+  
+      - target folder, the .class folders in target, reports for checks, etc.
 
-- Updated pom.xml: 
-      Not a big change. Just added -SNAPSHOT to <version>1.0<version> just in case it matters/changes something.
+- Updated pom.xml:
+  
+      - Not a big change. Just added -SNAPSHOT to <version>1.0<version> just in case it matters/changes something.
 
 - Updated CipherUtils.java: (fixed bug/testing errors and checkstyle errors)
+  
       - Added private static final int variables and replaced the numbers/ints used with these variables where checkstyle errors come up.
         (Did this to adhere to checkstyle rules)
 
